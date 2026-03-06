@@ -1,30 +1,24 @@
-# Hi there, I'm Dechathon Thongthipyarat 👋
+# Welcome to my GitHub profile
 
-### 🔍 Aspiring Software QA Engineer | Computer Science Student @KU Sriracha
+### Software Quality Assurance (QA) / Software Testing
+Hi am Dechathon Thongthipyarat
 
-I am a Computer Science student with a strong passion for **Software Quality Assurance**. I specialize in ensuring software reliability through Automated Testing, API Validation, and rigorous Unit Testing. With a background in Frontend Development, I bridge the gap between high-quality code and exceptional user experience.
-
----
-
-### 🛠 Technical Toolbox
-- **Testing:** Katalon Studio, Postman, JUnit (90%+ Coverage Strategy)
-- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind
-- **Design:** Figma (UI/UX & Prototyping)
-- **Languages:** Java, Python, SQL
+I am a Computer Science student focused on **Quality Engineering**. I specialize in ensuring system reliability through deep-level testing, from rigorous **Unit Testing** to **End-to-End Automation**. My goal is to deliver bug-free, high-performance software through systematic validation and a developer-centric testing mindset.
 
 ---
 
-### 🚀 Key QA Highlights
-- **Automated Testing:** Experienced in building Web UI test scripts with **Katalon Studio**.
-- **API Validation:** Skilled in testing RESTful APIs using **Postman** to ensure data integrity.
-- **Unit Testing:** Committed to code quality with **JUnit**, consistently achieving high coverage.
-- **Bug Hunter:** Passionate about identifying functional issues and usability bottlenecks.
+## 🧠 Testing Skills
+
+- **Automation:** Katalon Studio (Web & API)
+- **Unit Testing:** JUnit (Achieving 90%+ Code Coverage)
+- **API Testing:** Postman & Katalon API Validation
+- **Methodology:** Functional Testing, Regression Testing, Edge Case Analysis
+- **Documentation:** Detailed Test Case & Test Scenario Design
 
 ---
 
-### 📬 Connect with Me
-- 📧 Email: [ใส่เมลของคุณที่นี่]
-- 🔗 LinkedIn: [ใส่ลิงก์ LinkedIn ของคุณ]
+## 🛠 Tools & Technologies
 
----
-*"Quality is not an act, it is a habit."*
+- **Testing Tools:** Katalon Studio, Postman, JUnit
+- **Version Control:** Git, GitHub
+- **Environment:** VS Code,GoodNote
